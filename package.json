@@ -1,7 +1,7 @@
 {
   "name": "nft-mixtapejs",
   "version": "0.0.1",
-  "description": "SQLite3 db generator for NFT collections",
+  "description": "SQLite3 db generator for NFT collections created with mixtapejs by Skogard",
   "main": "index.js",
   "author": "h0ward.eth",
   "license": "MIT",
