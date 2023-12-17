@@ -1,6 +1,6 @@
 {
   "name": "nft-mixtapejs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "SQLite3 db generator for NFT collections created with mixtapejs by Skogard",
   "main": "index.js",
   "author": "h0ward.eth",
@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "@vscode/sqlite3": "^5.1.6-vscode",
-    "c0js": "^0.1.24",
     "ipfsh": "^0.0.8",
     "json-stringify-deterministic": "^1.0.12",
     "knex": "^3.1.0"
