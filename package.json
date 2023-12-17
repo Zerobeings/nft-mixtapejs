@@ -6,15 +6,15 @@
   "author": "h0ward.eth",
   "license": "MIT",
   "devDependencies": {
-    "dotenv": "^16.0.0",
+    "dotenv": "^16.3.1",
     "mocha": "^9.2.2",
     "web3": "^1.7.1"
   },
   "dependencies": {
     "@vscode/sqlite3": "^5.1.6-vscode",
-    "c0js": "^0.1.21",
-    "ipfsh": "^0.0.6",
-    "json-stringify-deterministic": "^1.0.5",
+    "c0js": "^0.1.24",
+    "ipfsh": "^0.0.8",
+    "json-stringify-deterministic": "^1.0.12",
     "knex": "^3.1.0"
   }
 }

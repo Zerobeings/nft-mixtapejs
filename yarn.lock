@@ -779,7 +779,7 @@ bytes@3.1.2:
   resolved "https://registry.yarnpkg.com/bytes/-/bytes-3.1.2.tgz#8b0beeb98605adf1b128fa4386403c009e0221a5"
   integrity sha512-/Nf7TyzTx6S3yRJObOAV7956r8cr2+Oj8AC5dt8wSP3BQAoeX58NoHyCU8P8zGkNXStjTSi6fzO6F0pBdcYbEg==
 
-c0js@^0.1.21:
+c0js@^0.1.24:
   version "0.1.24"
   resolved "https://registry.yarnpkg.com/c0js/-/c0js-0.1.24.tgz#db1ff0c32346fea20a79552e988fe98f868a448e"
   integrity sha512-tbJSM4mvdo1AvQwN3UbmRYL32X1WGYu4ovJxmtQuXD3/L6wwP60kJaXtwlPUiOPObWoo37oa85SmjSXHJonbJw==
@@ -1144,7 +1144,7 @@ dom-walk@^0.1.0:
   resolved "https://registry.yarnpkg.com/dom-walk/-/dom-walk-0.1.2.tgz#0c548bef048f4d1f2a97249002236060daa3fd84"
   integrity sha512-6QvTW9mrGeIegrFXdtQi9pk7O/nSK6lSdXW2eqUspN5LWD7UTji2Fqw5V2YLjBpHEoU9Xl/eUWNpDeZvoyOv2w==
 
-dotenv@^16.0.0:
+dotenv@^16.3.1:
   version "16.3.1"
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-16.3.1.tgz#369034de7d7e5b120972693352a3bf112172cc3e"
   integrity sha512-IPzF4w4/Rd94bA9imS68tZBaYyBWSCE47V1RGuMrB94iyTOIEwRmVL2x/4An+6mETpLrKJ5hQkB8W4kFAadeIQ==
@@ -2032,15 +2032,6 @@ ipfs-utils@^9.0.6:
     react-native-fetch-api "^3.0.0"
     stream-to-it "^0.2.2"
 
-ipfsh@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/ipfsh/-/ipfsh-0.0.6.tgz#3b480bc31ab4badbf4dc822cc994c5bed633e4cb"
-  integrity sha512-PtuqJrE76UCy7KF6SEHP+HfBUOoVMY+POSVbqz4+JCwHqyYBtNiFQiX2EDsaJb8c7yQzo3rf22SYw8IYxB48YA==
-  dependencies:
-    ipfs-http-client "^56.0.1"
-    ipfs-unixfs-importer "^9.0.6"
-    multiformats "^9.5.2"
-
 ipfsh@^0.0.8:
   version "0.0.8"
   resolved "https://registry.yarnpkg.com/ipfsh/-/ipfsh-0.0.8.tgz#137fb49fb35dfd68ba8f2077356c066b4eb3c58d"
@@ -2259,7 +2250,7 @@ json-schema@0.4.0:
   resolved "https://registry.yarnpkg.com/json-schema/-/json-schema-0.4.0.tgz#f7de4cf6efab838ebaeb3236474cbba5a1930ab5"
   integrity sha512-es94M3nTIfsEPisRafak+HDLfHXnKBhV3vU5eqPcS3flIWqcxJWgXHXiey3YrpaNsanY5ei1VoYEbOzijuq9BA==
 
-json-stringify-deterministic@^1.0.5:
+json-stringify-deterministic@^1.0.12, json-stringify-deterministic@^1.0.5:
   version "1.0.12"
   resolved "https://registry.yarnpkg.com/json-stringify-deterministic/-/json-stringify-deterministic-1.0.12.tgz#aaa3f907466ed01e3afd77b898d0a2b3b132820a"
   integrity sha512-q3PN0lbUdv0pmurkBNdJH3pfFvOTL/Zp0lquqpvcjfKzt6Y0j49EPHAmVHCAS4Ceq/Y+PejWTzyiVpoY71+D6g==
