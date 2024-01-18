@@ -1,15 +1,10 @@
 {
   "name": "nft-mixtapejs",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "SQLite3 db generator for NFT collections created with mixtapejs by Skogard",
   "main": "index.js",
   "author": "h0ward.eth",
   "license": "MIT",
-  "devDependencies": {
-    "dotenv": "^16.3.1",
-    "mocha": "^9.2.2",
-    "web3": "^1.7.1"
-  },
   "dependencies": {
     "ipfsh": "^0.0.8",
     "json-stringify-deterministic": "^1.0.12",
